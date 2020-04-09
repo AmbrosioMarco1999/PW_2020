@@ -6,4 +6,6 @@
 ### Run
 `pipenv shell`
 
+`pipenv install -r requirements.txt`
+
 `python3 main.py`
